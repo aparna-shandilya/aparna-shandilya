@@ -2,7 +2,7 @@
 - 👀 I’m interested in android app development 
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on diffrent ptojects
-- 📫 How to reach me - 
+- 📫 How to reach me - aparnashandilya16@gmail.com
 
 <!---
 aparna-shandilya/aparna-shandilya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
