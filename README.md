@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparna-shandilya
-- 👀 I’m interested in android app development 
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in ML/AI
+- 🌱 I’m currently learning DSA and Python
 - 💞️ I’m looking to collaborate on diffrent ptojects
 - 📫 How to reach me - aparnashandilya16@gmail.com
 
